@@ -1,0 +1,14 @@
+{
+    "name": "challenge-engineering",
+    "version": "1.0.0",
+    "description": "Web Scraping With Chrome HeadLess",
+    "author": "Damien Chazoule (MrDoomy)",
+    "license": "GPL-3.0",
+    "scripts": {
+        "start": "node script.js"
+    },
+    "dependencies": {
+        "nickjs": "^0.2.6",
+        "puppeteer": "^1.0.0"
+    }
+}
