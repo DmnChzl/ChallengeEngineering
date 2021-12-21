@@ -2,7 +2,7 @@
     "name": "challenge-engineering",
     "version": "1.0.0",
     "description": "Web Scraping With Chrome HeadLess",
-    "author": "Damien Chazoule (MrDoomy)",
+    "author": "Damien Chazoule <damien.chazoule@gmail.com>",
     "license": "GPL-3.0",
     "scripts": {
         "start": "node script.js"

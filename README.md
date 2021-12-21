@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/MrDoomy/ChallengeEngineering/master/img/capture.png)
+![Image](https://raw.githubusercontent.com/DmnChzl/ChallengeEngineering/master/img/capture.png)
 
 # Challenge Engineering
 
@@ -87,7 +87,7 @@ Ci-dessous la marche à suivre afin de lancer le proccesus de Web Scraping.
 Récupérer le projet :
 
 ```
-git clone https://github.com/MrDoomy/ChallengeEngineering.git
+git clone https://github.com/DmnChzl/ChallengeEngineering.git
 ```
 
 Placez vous dans le dossier :
